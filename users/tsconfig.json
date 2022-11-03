@@ -1,11 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "src",
-    "paths": {
-      "src/*": ["src/*"],
-      "entities/*": ["src/entities/*"],
-      "resolvers/*": ["src/resolvers/*"]
-    },
     "module": "commonjs",
     "declaration": true,
     "removeComments": true,

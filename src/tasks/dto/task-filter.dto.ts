@@ -1,4 +1,4 @@
-import { TaskStatus } from '../task.model';
+import { TaskStatus } from '../task-status';
 
 export class TaskfilterDto {
   status?: TaskStatus;
